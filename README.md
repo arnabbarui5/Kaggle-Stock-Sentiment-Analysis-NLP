@@ -1,2 +1,1 @@
-# Kaggle-Stock-Sentiment-Analysis-NLP
-Solution for Kaggle NLP Contest
+# Stock-Sentiment-Analysis
